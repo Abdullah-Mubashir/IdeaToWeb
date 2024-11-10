@@ -29,7 +29,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/ai-frontend-generator.git
+git clone [https://github.com/yourusername/ai-frontend-generator.git](https://github.com/Abdullah-Mubashir/IdeaToWeb.git)
 cd ai-frontend-generator
 ```
 
